@@ -12,7 +12,8 @@ include 'inc/head.php';
 
 <body>
     <?php
-    include 'inc/nav-policy.php';
+       include 'inc/flight/ticker.php';
+    include 'inc/nav.php';
     include 'inc/policies/cookies.php';
     include 'inc/footer.php';
     include 'inc/scripts.php';
