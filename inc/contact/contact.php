@@ -98,6 +98,6 @@
         </div>
         <br><br><br>
         <div class="row">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2983.483760709524!2d-73.9718669!3d41.60204960000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89dd3a5ca3d1575f%3A0xaf346b7c7ba06222!2s1280%20Rte%209W%2C%20Marlboro%2C%20NY%2012542%2C%20USA!5e0!3m2!1sen!2sin!4v1753131523643!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>     </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.0582741984317!2d-118.50080729999999!3d34.016715100000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2a4c5b2b76a8f%3A0xbc5301f7fff2f0d9!2s98%20Wilshire%20Blvd%20%23700%2C%20Santa%20Monica%2C%20CA%2090401%2C%20USA!5e0!3m2!1sen!2sin!4v1754169024664!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>    </div>
     </div>
 </div>
