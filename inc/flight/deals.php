@@ -239,12 +239,12 @@
                     <div class="deal-card europe-theme">
                         <div class="deal-image">
                             <img src="./images/flight/a.jpeg" alt="European city skyline at sunset">
-                            <div class="savings-badge highlighted">Save up to $1,053*</div>
+                            <div class="savings-badge highlighted">Save up to $1053*</div>
                         </div>
                         <div class="deal-content">
                             <h3 class="deal-title">Business class flights to Europe</h3>
                             <div class="deal-price">
-                                <span class="price-amount">$1,174</span>
+                                <span class="price-amount">$1174</span>
                                 <span class="price-currency">*USD</span>
                             </div>
                         </div>
@@ -259,12 +259,12 @@
                     <div class="deal-card oceania-theme">
                         <div class="deal-image">
                             <img src="./images/flight/b11.jpg" alt="Sydney harbor with opera house and bridge">
-                            <div class="savings-badge  highlighted">Save up to $1,047*</div>
+                            <div class="savings-badge  highlighted">Save up to $1047*</div>
                         </div>
                         <div class="deal-content">
                             <h3 class="deal-title">Business class flights to Oceania</h3>
                             <div class="deal-price">
-                                <span class="price-amount">$1,991</span>
+                                <span class="price-amount">$1991</span>
                                 <span class="price-currency">*USD</span>
                             </div>
                         </div>
@@ -279,12 +279,12 @@
                     <div class="deal-card asia-theme">
                         <div class="deal-image">
                             <img src="./images/flight/a3.webp" alt="Traditional Japanese temple with cherry blossoms">
-                            <div class="savings-badge highlighted">Save up to $1,159*</div>
+                            <div class="savings-badge highlighted">Save up to $1159*</div>
                         </div>
                         <div class="deal-content">
                             <h3 class="deal-title">Business class flights to Asia</h3>
                             <div class="deal-price">
-                                <span class="price-amount">$1,639</span>
+                                <span class="price-amount">$1639</span>
                                 <span class="price-currency">*USD</span>
                             </div>
                         </div>
@@ -298,12 +298,12 @@
                     <div class="deal-card asia-theme">
                         <div class="deal-image">
                             <img src="./images/flight/a4.webp" alt="Gyeongbokgung Palace in Seoul during spring">
-                            <div class="savings-badge highlighted">Save up to $1,120*</div>
+                            <div class="savings-badge highlighted">Save up to $1120*</div>
                         </div>
                         <div class="deal-content">
                             <h3 class="deal-title">Business Class Flights to Seoul</h3>
                             <div class="deal-price">
-                                <span class="price-amount">$1,459</span>
+                                <span class="price-amount">$1459</span>
                                 <span class="price-currency">*USD</span>
                             </div>
                         </div>
@@ -324,7 +324,7 @@
                         <div class="deal-content">
                             <h3 class="deal-title">Business Class Flights to Bangkok</h3>
                             <div class="deal-price">
-                                <span class="price-amount">$1,389</span>
+                                <span class="price-amount">$1389</span>
                                 <span class="price-currency">*USD</span>
                             </div>
                         </div>
@@ -339,12 +339,12 @@
                     <div class="deal-card asia-theme">
                         <div class="deal-image">
                             <img src="./images/flight/a6.jpeg" alt="Tokyo city skyline at dusk">
-                            <div class="savings-badge highlighted">Save up to $1,085*</div>
+                            <div class="savings-badge highlighted">Save up to $1085*</div>
                         </div>
                         <div class="deal-content">
                             <h3 class="deal-title">Business Class Flights to Tokyo</h3>
                             <div class="deal-price">
-                                <span class="price-amount">$1,499</span>
+                                <span class="price-amount">$1499</span>
                                 <span class="price-currency">*USD</span>
                             </div>
                         </div>
