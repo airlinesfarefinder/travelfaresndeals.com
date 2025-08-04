@@ -1106,6 +1106,7 @@ margin-top: 25rem;
   display: inline-block;
   margin-bottom: 25px;
   font-family: "Barlow Condensed";
+  text-align: justify
 }
 
 #about_page .quote::before {

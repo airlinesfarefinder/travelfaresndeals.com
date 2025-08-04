@@ -120,6 +120,7 @@
   font-weight: 400;
   color: #494949;
   text-transform: capitalize;
+  text-align: justify
 }
 
 .heading::after {
